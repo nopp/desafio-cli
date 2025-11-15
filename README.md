@@ -12,7 +12,7 @@ Uma ferramenta CLI em Go para realizar testes de carga em serviços web com exec
 
 ## Instalação
 
-### Opção 1: Usando Docker (Recomendado)
+### Opção 1: Usando Docker
 
 ```bash
 # Build da imagem Docker
