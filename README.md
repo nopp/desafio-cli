@@ -1,14 +1,4 @@
-# Load Tester CLI
-
-Uma ferramenta CLI em Go para realizar testes de carga em serviços web com execução concorrente e relatórios detalhados.
-
-## Características
-
-- ✅ Testes de carga HTTP com concorrência configurável
-- ✅ Relatórios detalhados com métricas de performance
-- ✅ Distribuição de códigos de status HTTP
-- ✅ Containerização com Docker
-- ✅ Interface CLI simples e intuitiva
+# Desafio - Stress test
 
 ## Instalação
 
